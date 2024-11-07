@@ -12,3 +12,9 @@ strip = true
 opt-level = "s"
 lto = true
 codegen-units = 1
+
+[profile.release]
+strip = true
+opt-level = "s"
+lto = true
+codegen-units = 1
